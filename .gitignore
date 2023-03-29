@@ -30,5 +30,6 @@ hs_err_pid*
 .replit
 .settings
 .upm
+replit.nix
 pom.xml
 target
