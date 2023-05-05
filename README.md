@@ -19,6 +19,6 @@
 - 쇠막대기
 
 ### 4주차:
-- 오큰수 (#17298)
-- 오등큰수 (#17299)
-- 후위 표기식 2 (#1935)
+- [오큰수 (#17298)](https://www.acmicpc.net/problem/17298)
+- [오등큰수 (#17299)](https://www.acmicpc.net/problem/17299)
+- [후위 표기식 2 (#1935)](https://www.acmicpc.net/problem/1935)
